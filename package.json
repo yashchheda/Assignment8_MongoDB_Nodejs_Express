@@ -1,0 +1,30 @@
+{
+  "name": "Assignment8_MongoDB_Nodejs_Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "shortid": "^2.2.2",
+    "express": "^4.12.3",
+    "mongodb": "^2.0.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yashchheda/Assignment8_MongoDB_Nodejs_Express.git"
+  },
+  "keywords": [
+    "Nodejs_MongoDB"
+  ],
+  "author": "Yash Chheda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashchheda/Assignment8_MongoDB_Nodejs_Express/issues"
+  },
+  "homepage": "https://github.com/yashchheda/Assignment8_MongoDB_Nodejs_Express"
+}

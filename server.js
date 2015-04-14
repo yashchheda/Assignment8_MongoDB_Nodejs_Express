@@ -52,7 +52,7 @@ app.post("/", function(req, res) {
                             longurl: url,
                             views: 1
                         };
-                        collection.insert(urlDB, function(err, result) {
+                        collection.insert(urlDB, function(err) {
                             if (err) {
                                 console.log(err);
                             } else {
